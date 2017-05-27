@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Lorem Ipsum
-categories: 
-    - Text
-tags: 
-    - Random
+title: Lorem Ipsum
+categories:
+- Text
+tags:
+- Random
+date: '2016-11-01T00:00:00.000+00:00'
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo, eros eu efficitur tempus, sem arcu vehicula tortor, sed auctor ligula tellus ut tortor. Aenean a dui felis. Aenean vestibulum dapibus neque sit amet interdum. Sed pellentesque leo ex, et sollicitudin mi fermentum a. Curabitur ut dapibus risus, non pretium tortor. Curabitur non ex posuere, blandit arcu nec, ultricies nunc. Donec vitae mollis mi, vestibulum vestibulum elit. Pellentesque tortor ante, pellentesque in iaculis nec, accumsan in turpis. Donec a tincidunt ante, commodo malesuada felis. Ut tincidunt luctus risus, nec efficitur nibh porttitor eget. Morbi lectus erat, iaculis non rhoncus tincidunt, lobortis vel quam. Ut leo massa, condimentum id sodales sed, imperdiet in mi. Nullam a eleifend neque. Nulla euismod molestie sem, aliquam varius lorem volutpat ac.
 
